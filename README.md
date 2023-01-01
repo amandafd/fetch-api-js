@@ -39,7 +39,7 @@
 
 <h3 id="lessons-learned">Lessons learned</h3>
 <ul>The learning acquired during the execution of this project will be constantly updated here:
-    <li></li>
+    <li>Work with more than one asynchronous requestnat at the same time</li>
 </ul> 
 
 <h2 id="authors" align="left">Authors</h2>
