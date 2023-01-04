@@ -29,6 +29,8 @@ async function getAllPosts() {
         div.appendChild(title);
         div.appendChild(body);
         div.appendChild(link);
+
+        postsContainer.appendChild(div);
     })
 }
 
