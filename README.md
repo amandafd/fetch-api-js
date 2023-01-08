@@ -7,8 +7,8 @@
 </br>
 
 <p align="center">
-  <a href=""><img src="https://img.shields.io/badge/last%20update-december%202022-blue" align="center" alt="Badge - last update in december 2022" /></a> 
-  <a href=""><img src="https://img.shields.io/badge/status-under%20development-yellowgreen" align="center" alt="Badge status: under development" /></a>-->
+  <a href=""><img src="https://img.shields.io/badge/last%20update-jan%202023-blue" align="center" alt="Badge - last update in january 2023" /></a> 
+  <a href=""><img src="https://img.shields.io/badge/status-completed-green" align="center" alt="Badge status: completed" /></a>
   <a href=""><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="Badge - HTML" /></a>
   <a href=""><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="Badge - CSS" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge - Javascript" /></a>
