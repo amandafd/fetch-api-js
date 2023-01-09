@@ -2,7 +2,7 @@
 
 
 <div align-items="center">
-  <!-- TODO: replace project screenshot <img src="./assets/images/screenshot.jpg" alt="Project Screenshot">-->
+  <img src="./assets/images/screenshot.jpg" alt="Project Screenshot">
 </div>
 </br>
 
@@ -14,7 +14,7 @@
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge - Javascript" /></a>
 </p>
 
-<!-- TODO: replace to project deploy when it's ready <a href="https://pokedex-js-zeta.vercel.app/" align="center">Project link</a><br>-->
+<a href="https://fetch-api-js.vercel.app/" align="center">Project link</a><br>
 
 
 <ul>Content
