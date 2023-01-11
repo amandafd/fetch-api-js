@@ -38,7 +38,7 @@
 <h2 id="the-process">The Process</h2>
 
 <h3 id="lessons-learned">Lessons learned</h3>
-<ul>The learning acquired during the execution of this project will be constantly updated here:
+<ul>
     <li>Work with more than one asynchronous requests at the same time</li>
     <li>Using APIs and Javascript to load comments in a post</li>
 </ul> 
