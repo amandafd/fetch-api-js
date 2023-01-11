@@ -40,13 +40,13 @@
 <h3 id="lessons-learned">Lessons learned</h3>
 <ul>The learning acquired during the execution of this project will be constantly updated here:
     <li>Work with more than one asynchronous requests at the same time</li>
-    <li>Using APIs to load comments in a post</li>
+    <li>Using APIs and Javascript to load comments in a post</li>
 </ul> 
 
 <h2 id="authors" align="left">Authors</h2>
 <img align="left" src="https://avatars.githubusercontent.com/u/104245596?s=400&u=22dddd54d435db2df3c8f6e91c881be3cdc31170&v=4" width=115>
 <a href="https://github.com/amandafd">Amanda Dionisio</a>
-<h3 align="left">You can fin me on social media:</h3>
+<h3 align="left">You can find me on social media:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/amanda-felipe-dionisio"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Badge - Linkedin" /></a>
   <a href="https://www.behance.net/amanda_dionisio"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Badge - Behance" /></a>
