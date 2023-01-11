@@ -31,8 +31,7 @@
 
 <h3 id="the-project">The Project</h3>
 
-<p></p> 
-<p>The learning objectives for this project will be updated in the "Lessons learned" section as they are worked through in the run.</p>
+<p>Simulation of a blog page with the post and comments page. Made during API integration studies.</p> 
 
 
 <h2 id="the-process">The Process</h2>
